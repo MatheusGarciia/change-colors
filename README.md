@@ -34,10 +34,10 @@ Durante o desenvolvimento deste projeto, foi possível:
 
 ## Atualizações
 ### [v1.2.0] - 2026-04-10
-- melhora legibilidade ajustando cor do texto conforme background na página de Hex.
+- Melhora legibilidade ajustando cor do texto conforme background na página de Hex.
+- Adicionado página de cores em RGB.
 
 ## Melhorias futuras
-- Adicionar código RGB da cor
 - Copiar cor para a área de transferência
 - Histórico de cores geradas
 - Animações na transição de cores
