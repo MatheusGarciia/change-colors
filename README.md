@@ -25,19 +25,16 @@ O objetivo foi praticar conceitos fundamentais de desenvolvimento web, com foco 
 - Estruturação de código front-end
 - Boas práticas de organização
 
-## Estrutura do projeto
-/whatsthecolor
-│── app.js
-│── hex.html
-│── hex.js
-│── index.html
-
 ## Aprendizados
 Durante o desenvolvimento deste projeto, foi possível:
 - Compreender melhor a lógica de geração de dados aleatórios
 - Praticar a manipulação de elementos na tela
 - Aplicar conceitos de orientação a objetos na prática
 - Melhorar a organização e reutilização de código
+
+## Atualizações
+### [v1.2.0] - 2026-04-10
+- melhora legibilidade ajustando cor do texto conforme background na página de Hex.
 
 ## Melhorias futuras
 - Adicionar código RGB da cor
